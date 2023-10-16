@@ -3,8 +3,8 @@ import requests
 URL_BASE = 'https://scrapepark.org/courses/spanish/'
 pedido_obtenido = requests.get(URL_BASE)
 html_obtenido =  pedido_obtenido.text
-soup1 = BeautifulSoup(html_obtenido,"html.parser")
-src_todos = soup1.find_all(src=True)
+soup = BeautifulSoup(html_obtenido,"html.parser")
+src_todos = soup.find_all(src=True)
 #Etiquetas Imagenes
 for elemento in src_todos:
     if (elemento['src'].endswith(".png")) or (elemento['src'].endswith("jpg")):
