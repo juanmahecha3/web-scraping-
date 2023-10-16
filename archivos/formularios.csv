@@ -1,0 +1,9 @@
+Etiqueta
+<input name="name" placeholder="Tu nombre completo" required="" type="text"/>
+<input name="email" placeholder="Tu dirección de email" required="" type="email"/>
+<input name="subject" placeholder="Asunto" required="" type="text"/>
+<input type="submit" value="Enviar"/>
+<input name="name" placeholder="Tu nombre completo" required="" type="text"/>
+<input name="email" placeholder="Tu dirección de email" required="" type="email"/>
+<input name="subject" placeholder="Asunto" required="" type="text"/>
+<input type="submit" value="Enviar"/>
