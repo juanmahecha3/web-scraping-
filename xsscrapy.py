@@ -13,7 +13,7 @@ __email__ = 'danhmcinerney@gmail.com'
 def get_args():
     parser = argparse.ArgumentParser(description=__doc__,
                                     formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument('-u', '--url', help="URL to scan; -u http://example.com")
+    parser.add_argument('-u', '--url', help="URL to scan; -u https://scrapepark.org/courses/spanish/")
     parser.add_argument('-l', '--login', help="Login name; -l danmcinerney")
     parser.add_argument('-p', '--password', help="Password; -p pa$$w0rd")
     parser.add_argument('-c', '--connections', default='30', help="Set the max number of simultaneous connections allowed, default=30")
