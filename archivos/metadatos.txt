@@ -1,7 +1,8 @@
-Etiqueta
-<meta charset="utf-8"/>
-<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
-<meta content="" name="keywords"/>
-<meta content="" name="description"/>
-<meta content="" name="author"/>
+Páginas Web Formularios
+
+Web Scraping Etiqueta INPUT
+
+Archivo Plano Etiqueta INPUT
+
+
+
